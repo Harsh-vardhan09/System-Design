@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HLD/_Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index"
+              "title": "README"
             }
           }
         ],
@@ -226,10 +226,10 @@
   },
   "active": "7f77346c4f743556",
   "lastOpenFiles": [
-    "HLD/LOAD BALANCER.md",
     "HLD/_Index.md",
+    "HLD/LOAD BALANCER.md",
     "HLD/Horizontal x Vertical scaling.md",
-    "System Design Basic.md",
+    "README.md",
     "LLD/_Index.md",
     "LLD",
     "images/Pasted image 20261003015616.png",
