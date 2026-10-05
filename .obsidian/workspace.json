@@ -27,16 +27,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "System Design Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "System Design Basics"
+            }
+          },
+          {
+            "id": "79636a7d25b4a839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/LOAD BALANCER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LOAD BALANCER"
+            }
+          },
+          {
+            "id": "9393afab7f8f772d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/Message Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Message Queue"
+            }
+          },
+          {
+            "id": "39df7a4175ff7559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/Microservices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microservices"
+            }
+          },
+          {
+            "id": "6da0594536c62d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index"
+            }
+          },
+          {
+            "id": "c197b9f3f919c296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index"
+            }
+          },
+          {
+            "id": "8d95aab75f787974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/Single point of failure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Single point of failure"
+            }
+          },
+          {
+            "id": "e786e201589a6fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLD/CDN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CDN"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -98,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3debba8202c1f96d",
@@ -224,22 +323,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f77346c4f743556",
+  "active": "e786e201589a6fcd",
   "lastOpenFiles": [
+    "HLD/Single point of failure.md",
+    "HLD/CDN.md",
+    "images/Pasted image 20261006013837.png",
+    "images/Pasted image 20261006013305.png",
     "HLD/_Index.md",
+    "HLD/Caching.md",
+    "images/Pasted image 20261006005437.png",
+    "images/Pasted image 20261006005132.png",
+    "images/Pasted image 20261006004741.png",
+    "HLD/Database Sharding.md",
+    "images/Pasted image 20261006003352.png",
+    "HLD/Microservices.md",
+    "images/Pasted image 20261006002346.png",
+    "images/Pasted image 20261006001619.png",
+    "images/Pasted image 20261005235730.png",
+    "HLD/Message Queue.md",
+    "images/Pasted image 20261005201324.png",
     "HLD/LOAD BALANCER.md",
-    "HLD/Horizontal x Vertical scaling.md",
     "README.md",
+    "System Design Basics.md",
+    "HLD/Horizontal x Vertical scaling.md",
     "LLD/_Index.md",
     "LLD",
-    "images/Pasted image 20261003015616.png",
     "images",
-    "images/Pasted image 20261003020926.png",
-    "images/Pasted image 20261003020815.png",
-    "images/Pasted image 20261003020139.png",
     "HLD",
-    "images/Pasted image 20261003015637.png",
-    "Projects",
+    "Projects Designs",
     "Welcome.md",
     "desktop.ini"
   ]
